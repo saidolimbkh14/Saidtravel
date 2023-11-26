@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.weew{
+    background: url(https://images.hdqwalls.com/wallpapers/disney-moana-lu.jpg)
+    no-repeat center center/cover ;
+    width: 100%;
+    height: 100vh;
+}
+
+.nav{
+    background-color: rgba(0, 0, 0, 0.174);
+    width: 100%;
+    height: 60px;
+    padding: 5px 50px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.header{
+    padding: 100px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.g1{
+color: rgb(255, 255, 255);
+width: 400px;
+height: 300px;
+padding: 20px 20px;
+background-color: rgba(0, 0, 0, 0.219);
+}
+
+.g2 button{
+    width: 200px;
+    height: 60px;
+    background-color: #0d4eaf;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 3px 7px;
+}
+
+.headerp{
+    color: rgb(56, 255, 59);
+    font-size: 20px;
+}
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px 50px;
+}
+
+
+
+.cards{
+    width: 100%;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.cards img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.ema{
+    padding: 10px 10px;
+}
+
+.sx{
+    padding: 20px 45px; 
+}
+
+.sect{
+    padding: 100px 50px;
+    width: 100%;
+    border: 1px rgba(128, 128, 128, 0.762);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.left2 img{
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+}
+
+.sect2{
+    background: url(https://wallpapercosmos.com/w/full/7/9/c/293012-3840x2160-desktop-4k-new-york-wallpaper.jpg)
+    no-repeat center center/cover ;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.sect2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectvisa{
+    color: rgb(47, 255, 64);
+}
+
+.se1 button{
+    width: 200px;
+    height: 60px;
+    background-color: #0daf30;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 3px 7px;
+}
+
+.se1{
+    background-color: rgba(0, 0, 0, 0.226);
+    padding: 80px 40px;
+    width: 900px;
+    height: 400px;
+    color: white;
+}
+
+
+
+
+.aside{
+    padding: 40px 40px;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+
+.aside input{
+    width: 600px;
+    height: 80px;
+    padding: 0 20px;
+    border-radius: 15px;
+    border: 1px solid rgba(128, 128, 128, 0.23);
+}
+
+.video{
+    width: 100%;
+    padding: 50px 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: black;
+    color: white;
+}
+
+.sect3{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: #e7f0fd;
+    color: rgb(0, 69, 129);
+}
+
+.cardi{
+    font-size: 13px;
+    padding: 10px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
